@@ -9,7 +9,7 @@
   </em>
 <p>
 
-![gh-BumsooKim's github stats](https://github-readme-stats.vercel.app/api?username=gh-BumsooKim&show_icons=true)
+![gh-BumsooKim's github stats](https://github-readme-stats.vercel.app/api?username=gh-BumsooKim&theme=buefy&show_icons=true)
 
 ### Contacts 📫
 * Email: cmng828rhuypqq@cau.ac.kr
