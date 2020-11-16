@@ -18,6 +18,10 @@
 * <b>Realistic Interaction Augmented Reality.</b> (20.01 ~ now)
 * <b>3D Modeling Based on Point Cloud.</b> (20.08 ~ now)
 
+### Research Area 🔭
+* Augmented Reality(AR)
+* Deep Learning(DL) / Reinforcement Learning(RL)
+* Computer Vision(CV)
 
 <!--
 **gh-BumsooKim/gh-BumsooKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
