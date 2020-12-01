@@ -11,7 +11,7 @@
 
 ![gh-BumsooKim's github stats](https://github-readme-stats.vercel.app/api?username=gh-BumsooKim&theme=buefy&show_icons=true)
 
-### Contacts 📫
+### Contact 📫
 * Email: cmng828rhuypqq@cau.ac.kr
 
 ### Project ⚡
