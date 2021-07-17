@@ -1,27 +1,44 @@
 # gh-BumsooKim 🌱 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgh-BumsooKim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Hello world! 👋
-
 <p>
   <em>
-    I am <b>noob</b> student developer.👨‍💻 <br>
-    I like to <b>develop</b> many interesting things.🎁
+    I'm an <b>Artistic Programmer</b>, love <b>visuial & programmatic</b> tasks
   </em>
 <p>
 
-![gh-BumsooKim's github stats](https://github-readme-stats.vercel.app/api?username=gh-BumsooKim&theme=buefy&show_icons=true)
-
-### Contact 📫
-* Email: cmng828rhuypqq@cau.ac.kr
-
-### Project ⚡
+## Research Area
+1) Media : Mixed Reality(MR), eXtended Reality(XR)<br>
+2) AI : Image-based Deep Learning(DL)<br>
+3) Video : Computer Vision(CV), Video Analysis<br>
+  
+  
+## Education and Career
+  
+B.S. (2019.03 - Now), School of Art & Technology, Department of Electrical and Electronics Engineering (double major), CAU <br>
+M.S. (upcommng 😘)
+  
+| Period | Working at | Role | Research Area |
+|:---:|:---:|:---:|:---:|
+| 2020.01 ~ 2021.06 | [Graphics Realization Lab](http://grlab.cau.ac.kr), [CAU](https://www.cau.ac.kr/index.do) | Research Assistant | eXtened Reality and Deep Learning |
+| 2020.07 ~ Now | [Defense & Safety ICT Research Department in Intelligent Convergence Research Laboratory](https://www.etri.re.kr/eng/sub6/sub6_01020101.etri?departCode=138&departInfoCode=279), [ETRI](https://www.etri.re.kr/eng/main/main.etri) | Research Intern / Deep Learning Engineer | Video Analysis and Deep Learning |
+  
+ 
+## Paper
+  
+Recent Paper : Virtual Characters based Personalized Intelligent Agent Service using Face Recognition, (2021), ICA1 <br>
+More info : *[My Paper List](https://github.com/gh-BumsooKim/My-Paper-List)*
+  
+<!--
+## Project 
 * <b>Realistic Interaction Augmented Reality.</b> (20.01 ~ now)
 * <b>3D Modeling Based on Point Cloud.</b> (20.08 ~ now)
+-->
 
-### Research Area 🔭
-* Augmented Reality(AR)
-* Deep Learning(DL) / Reinforcement Learning(RL)
-* Computer Vision(CV)
+## Contact 📫
+* Email: cmng828rhuypqq@cau.ac.kr
+
+
+![gh-BumsooKim's github stats](https://github-readme-stats.vercel.app/api?username=gh-BumsooKim&theme=buefy&show_icons=true)
 
 <!--
 **gh-BumsooKim/gh-BumsooKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
