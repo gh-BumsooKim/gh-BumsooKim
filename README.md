@@ -8,7 +8,7 @@
 
 ## Research Area
 1) Media : Mixed Reality(MR), eXtended Reality(XR)<br>
-2) AI : Image-based Deep Learning(DL)<br>
+2) AI : Image-based Deep Learning(DL), Image Generative Model(GAN)<br>
 3) Video : Computer Vision(CV), Video Analysis<br>
   
   
@@ -20,12 +20,13 @@ M.S. (upcommng 😘)
 | Period | Working at | Role | Research Area |
 |:---:|:---:|:---:|:---:|
 | 2020.01 ~ 2021.06 | [Graphics Realization Lab](http://grlab.cau.ac.kr), [CAU](https://www.cau.ac.kr/index.do) | Research Assistant | eXtened Reality and Deep Learning |
-| 2020.07 ~ Now | [Defense & Safety ICT Research Department in Intelligent Convergence Research Laboratory](https://www.etri.re.kr/eng/sub6/sub6_01020101.etri?departCode=138&departInfoCode=279), [ETRI](https://www.etri.re.kr/eng/main/main.etri) | Research Intern / Deep Learning Engineer | Video Analysis and Deep Learning |
-  
+| 2021.07 ~ 2021.08 | [Defense & Safety ICT Research Department in Intelligent Convergence Research Laboratory](https://www.etri.re.kr/eng/sub6/sub6_01020101.etri?departCode=138&departInfoCode=279), [ETRI](https://www.etri.re.kr/eng/main/main.etri) | Research Intern / Deep Learning Engineer | Video Analysis and Deep Learning |
+| 2021.09 ~ Now | [Graphics Realization Lab](http://grlab.cau.ac.kr), [CAU](https://www.cau.ac.kr/index.do) | Research Assistant | eXtened Reality and Deep Learning |
+ 
  
 ## Paper
   
-Recent Paper : Virtual Characters based Personalized Intelligent Agent Service using Face Recognition, (2021), ICA1 <br>
+Recent Paper : A Study on Building Training Dataset to Improve Edge-based Object Detection, (2021), PlatCon21-Workshop CIA <br>
 More info : *[My Paper List](https://github.com/gh-BumsooKim/My-Paper-List)*
   
 <!--
