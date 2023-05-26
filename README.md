@@ -6,6 +6,8 @@
   </em>
 <p>
 
+ [[Google Scholar]](https://scholar.google.com/citations?user=JlNb4R8AAAAJ&hl=ko) | [[Linkedin]](https://www.linkedin.com/in/bumsoo-kim-9b224a1b1/)
+  
 ## Research Area
 1) Media : Mixed Reality(MR), eXtended Reality(XR)<br>
 2) AI : Image-based Deep Learning(DL), Image Generative Model(GAN)<br>
@@ -14,21 +16,21 @@
   
 ## Education and Career
   
-B.S. (2019.03 - Now), School of Art & Technology, Department of Electrical and Electronics Engineering (double major), CAU <br>
+B.S. (2019.03 - 2023.02), School of Art & Technology, Department of Electrical and Electronics Engineering (double major), CAU <br>
 M.S. (upcommng 😘)
   
 | Period | Working at | Role | Research Area |
 |:---:|:---:|:---:|:---:|
 | 2020.01 ~ 2021.06 | [Graphics Realization Lab](http://grlab.cau.ac.kr), [CAU](https://www.cau.ac.kr/index.do) | Research Assistant | eXtened Reality and Deep Learning |
 | 2021.07 ~ 2021.08 | [Defense & Safety ICT Research Department in Intelligent Convergence Research Laboratory](https://www.etri.re.kr/eng/sub6/sub6_01020101.etri?departCode=138&departInfoCode=279), [ETRI](https://www.etri.re.kr/eng/main/main.etri) | Research Intern / Deep Learning Engineer | Video Analysis and Deep Learning |
-| 2021.09 ~ Now | [Graphics Realization Lab](http://grlab.cau.ac.kr), [CAU](https://www.cau.ac.kr/index.do) | Research Assistant | eXtened Reality and Deep Learning |
+| 2021.09 ~ 2023.01 | [Graphics Realization Lab](http://grlab.cau.ac.kr), [CAU](https://www.cau.ac.kr/index.do) | Research Assistant | eXtened Reality and Deep Learning |
+| 2023.02 ~ Now | Visual AI Team, VIVLAB, [VIVESTUDIOS](http://vivestudios.com/v2/web/index) | AI Researcher | Generative Models |
  
  
 ## Paper
   
-Recent Paper : A Study on Building Training Dataset to Improve Edge-based Object Detection, (2021), PlatCon21-Workshop CIA <br>
-More info : *[My Paper List](https://github.com/gh-BumsooKim/My-Paper-List)*
-  
+Paper List : *[My Paper List](https://github.com/gh-BumsooKim/My-Paper-List)*
+
 <!--
 ## Project 
 * <b>Realistic Interaction Augmented Reality.</b> (20.01 ~ now)
@@ -36,7 +38,7 @@ More info : *[My Paper List](https://github.com/gh-BumsooKim/My-Paper-List)*
 -->
 
 ## Contact 📫
-* Email: cmng828rhuypqq@cau.ac.kr
+* Email: bumsookim00@gmail.com
 
 
 ![gh-BumsooKim's github stats](https://github-readme-stats.vercel.app/api?username=gh-BumsooKim&theme=buefy&show_icons=true)
