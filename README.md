@@ -35,7 +35,9 @@ M.S. (upcommng 😘)
 | 2021.07 ~ 2021.08 | [Defense & Safety ICT Research Department in Intelligent Convergence Research Laboratory](https://www.etri.re.kr/eng/sub6/sub6_01020101.etri?departCode=138&departInfoCode=279), [ETRI](https://www.etri.re.kr/eng/main/main.etri) | Research Intern / Deep Learning Engineer | Video Analysis and Deep Learning |
 | 2021.09 ~ 2023.01 | [Graphics Realization Lab](http://grlab.cau.ac.kr), [CAU](https://www.cau.ac.kr/index.do) | Research Assistant | eXtened Reality and Deep Learning |
 | 2023.02 ~ Now | Visual AI Team, VIVLAB, [VIVESTUDIOS](http://vivestudios.com/v2/web/index) | AI Researcher | Generative Models |
-  <p align="center">
+
+
+<p align="center">
   <a href="https://github.com/gh-BumsooKim">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gh-BumsooKim&theme=transparent" />
   </a>
@@ -46,9 +48,11 @@ M.S. (upcommng 😘)
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gh-BumsooKim&theme=transparent" />
   </a>
   <a href="https://github.com/gh-BumsooKim">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wervlad&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-BumsooKim&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent&layout=compact&size_weight=1&count_weight=0"/>
   </a>
 </p>
+
+
  <!--
 ## Paper
   
