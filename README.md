@@ -15,8 +15,10 @@
 <a href="https://github.com/gh-BumsooKim">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
 </a>
+<a href="https://www.reddit.com/user/artech_kr">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit">
+</a>
  
-
 
 ## Research Area
 1) Immersive Contents : Mixed Reality(MR), eXtended Reality(XR)<br>
