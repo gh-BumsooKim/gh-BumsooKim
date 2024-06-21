@@ -46,7 +46,7 @@ In vision and graphics:
 | Venue        | Paper Format | Title | Project Page | Link | Authorship |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | CVPR 2024    | Workshop (Poster)       | ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer                                          | [ToonAging](https://gh-bumsookim.github.io/ToonAging/) | | 1st Author |
-| NeurIPS 2024 | Workshop (Oral)<br>(Top25% Highlight) | Minecraft-ify: Minecraft Style Image Generation with Text-guided Image Editing for In-Game Application | [Minecraft-ify](https://gh-bumsookim.github.io/Minecraft-ify/) | Paper, Poster, Slide | 1st Author |
+| NeurIPS 2023 | Workshop (Oral)<br>(Top25% Highlight) | Minecraft-ify: Minecraft Style Image Generation with Text-guided Image Editing for In-Game Application | [Minecraft-ify](https://gh-bumsookim.github.io/Minecraft-ify/) | Paper, Poster, Slide | 1st Author |
 
 <!--
 <p align="center">
