@@ -6,7 +6,7 @@
   </em>
 <p>
   
-<a href="https://www.linkedin.com/in/bumsoo-kim-9b224a1b1">
+<a href="https://www.linkedin.com/in/bumsoo-ben-kim-9b224a1b1">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
 <a href="https://scholar.google.com/citations?user=JlNb4R8AAAAJ&hl=ko">
