@@ -39,7 +39,7 @@ In vision and graphics:
 | 2021.07 ~ 2021.08 | [Defense & Safety ICT Research Department in Intelligent Convergence Research Laboratory](https://www.etri.re.kr/eng/sub6/sub6_01020101.etri?departCode=138&departInfoCode=279), [ETRI](https://www.etri.re.kr/eng/main/main.etri) | Research Intern / Deep Learning Engineer | Video Analysis and Deep Learning |
 | 2021.09 ~ 2023.01 | [Graphics Realization Lab](http://grlab.cau.ac.kr), [CAU](https://www.cau.ac.kr/index.do) | Research Assistant | eXtened Reality and Deep Learning |
 | 2023.02 ~ 2024.02 | Visual AI Team, VIVLAB, [VIVESTUDIOS](http://vivestudios.com/v2/web/index) | AI Research Intern | Generative Models |
-| 2024.07 ~ .     | [Boeing Korea Engineering and Technology Center (BKETC)](https://jobs.boeing.com/boeing-in-korea) | Machine Learning Research Intern | |
+| 2024.07 ~ 2024.09 | [Boeing Korea Engineering and Technology Center (BKETC)](https://jobs.boeing.com/boeing-in-korea) | Machine Learning Research Intern | Industrial Anomaly Detection |
 
 ## Representative Papers
 
