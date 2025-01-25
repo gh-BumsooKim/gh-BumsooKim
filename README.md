@@ -23,8 +23,8 @@
 
 ## Research Interests
 In vision and graphics:
-1) 🔥 Game AI : Charecter Animation, Pixelization, Visual Effect Generation, Icon Generation
-2) 🔥 Photo AI : Face Re-Aging, Style Transfer, Cartoonization/Stylization, Video Editing
+1) 🔥 Game AI : Visual Effect Generation, Pixelization, Diffusion Video Game, Texture Editing.
+2) 🔥 Photo AI : Neural Style Transfer, Cartoonization/Stylization, Video Face Re-Aging, NeRFs and Gaussian Splatting.
 <!-- 3) 🔥 Artistic AI : Dynamic Projection Mapping -->
  
   
@@ -45,8 +45,10 @@ In vision and graphics:
 
 | Venue        | Paper Format | Title | Project Page | Link | Authorship |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| CVPR 2024    | Workshop (Poster)       | ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer                                          | [ToonAging](https://gh-bumsookim.github.io/ToonAging/) | | 1st Author |
-| NeurIPS 2023 | Workshop (Oral)<br>(Top25% Highlight) | Minecraft-ify: Minecraft Style Image Generation with Text-guided Image Editing for In-Game Application | [Minecraft-ify](https://gh-bumsookim.github.io/Minecraft-ify/) | Paper, Poster, Slide | 1st Author |
+| AAAI 2025    | Workshop (Poster)                      | MultiFloodSynth: Multi-Annotated Flood Synthetic Dataset Generation                                     | . | arXiv, Poster, [GoodData](https://sites.google.com/servicenow.com/good-data-2025/program) | Co-1st Author |
+| WACV 2025    | Main                                   | Make VLM Recognize Visual Hallucination on Cartoon Character Image with Pose Information                | [HallucinationDetection](https://gh-bumsookim.github.io/Cartoon-Hallucinations-Detection/) | [arXiv](https://arxiv.org/abs/2403.15048), [Poster](https://drive.google.com/file/d/1aiq-JKWZ3A-t2-gzFV4nTVYcvbH-rZiY/view?usp=sharing) | Co-1st Author |
+| CVPR 2024    | Workshop (Poster)                      | ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer                                          | [ToonAging](https://gh-bumsookim.github.io/ToonAging/) | [arXiv](https://arxiv.org/abs/2402.02733), [Poster](https://drive.google.com/file/d/16j0oXrSZ6QeSLSFlYo5GmRENmK3EF1m_/view?usp=sharing), [AI4CC](https://ai4cc.net/2024/) | 1st Author |
+| NeurIPS 2023 | Workshop (Oral)<br>(Top25% Highlight)  | Minecraft-ify: Minecraft Style Image Generation with Text-guided Image Editing for In-Game Application  | [Minecraft-ify](https://gh-bumsookim.github.io/Minecraft-ify/) | [arXiv](https://arxiv.org/abs/2402.05448), [Poster](https://drive.google.com/file/d/1arvUC2g_AXKZwU_aF5jQrwXL4urJiLbh/view?usp=sharing), [Slide](https://github.com/gh-BumsooKim/Minecraft-ify/blob/main/docs/static/Minecraft_ify_slide.pdf), [ML4CD](https://neuripscreativityworkshop.github.io/2023/#/) | 1st Author |
 
 <!--
 <p align="center">
